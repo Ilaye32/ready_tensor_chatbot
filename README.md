@@ -89,7 +89,7 @@ graph TD
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/ready-tensor-chatbot.git
+git clone https://github.com/Ilaye32/ready_tensor_chatbot.git
 cd ready-tensor-chatbot
 ```
 
@@ -454,6 +454,9 @@ For questions about the chatbot:
 For questions about the certification program:
 - Visit [Ready Tensor](https://readytensor.com)
 - Join the Discord community
+- Author Timibofa Ilaye Clifford
+- Email: Timibofailaye55@gmail.com
+- [Ilaye's Github](https://github.com/Ilaye32)
 
 ---
 
